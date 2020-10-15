@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Phabricator 
-- 🌱 I’m currently learning Go
-- @wikimedia/release-engineering.
+I am currently:
+
+- 🔭 Working on Wikimedia's fork of Phabricator 
+- 🌱 Learning Go, C++ and MicroPython.
+- 🚢 Releasing Mediawiki @wikimedia/release-engineering.
