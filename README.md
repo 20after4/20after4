@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 
 
-I am currently:
+Here are some of the things I've been up to lately:
 
 - 🔭 Working on Wikimedia's fork of Phabricator 
-- 🌱 Learning Go, C++ and MicroPython.
+- 🌱 Playing with embedded controllers for battery management systems.
 - 🚢 Releasing Mediawiki @wikimedia/release-engineering.
