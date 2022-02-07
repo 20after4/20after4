@@ -10,3 +10,4 @@ Here are some of the things I've been up to lately:
 Previously:
 
 - 🚢 Releasing Mediawiki @wikimedia/release-engineering.
+- 🖼️ DevOps engineer at DeviantArt.
