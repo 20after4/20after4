@@ -8,11 +8,17 @@ Here are some of the things I've been up to recently:
 - ⚒️ Founding contributor to [phorge.it](https://we.phorge.it), the community maintained fork of Phabricator.
 - 📊 Practicing Data Visualization and Presentation skills.
 - 🎛️ Playing with embedded linux systems and microcontrollers. c++ and Micropython running on esp32, stm32 and RP2040.
-- 🔧 Building a LinuxCNC milling machine.
+- 🔧 Building a [LinuxCNC](https://linuxcnc.org/) milling machine.
 
 
 Previously:
 - 📚 Learning TypeScript.
-- 🔭 Maintaining Wikimedia's fork of Phabricator ( https://phabricator.wikimedia.org )
+- 🔭 Maintaining [Wikimedia's fork of Phabricator](https://phabricator.wikimedia.org)  
 - 🚢 Deploying the software that powers Wikipedia @wikimedia/release-engineering.
-- 🖼️ DevOps engineer at DeviantArt.
+- :art: DevOps engineer at [DeviantArt](https://www.deviantart.com/)
+
+
+Profiles elsewhere:
+- 🔗 [phorge.it/20after4](https://we.phorge.it/p/20after4/)
+- ![image](https://github.com/20after4/20after4/assets/30934/f28ada0d-b32e-408f-99bb-704dcd275b3d)[deviantArt/20after4](https://www.deviantart.com/20after4)
+- :camera: [flickr/photos/20after4](https://www.flickr.com/photos/20after4/)
