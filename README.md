@@ -16,7 +16,6 @@ Previously:
 - 🔭 Maintaining [Wikimedia's fork of Phabricator](https://phabricator.wikimedia.org) - [My commits](https://phabricator.wikimedia.org/people/commits/8/)
 - 🚢 Deploying the software that powers Wikipedia @wikimedia/release-engineering
   - Infrastructure configured and deployed with Puppet - [My commits](https://github.com/wikimedia/operations-puppet/commits?author=20after4)
-  - 
 - :art: DevOps engineer at [DeviantArt](https://www.deviantart.com/)
 
 Profiles elsewhere:
