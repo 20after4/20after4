@@ -4,7 +4,7 @@ Here are some of the things I've been up to recently:
 
 ### 2024
 - Automating all the things with ESPHome and Home Assistant
-- Building [TUI](https://github.com/topics/tui]s in Golang with [bubbles](https://github.com/charmbracelet/bubbles/) and [lipgloss](https://github.com/charmbracelet/lipgloss).
+- Building [TUI](https://github.com/topics/tui)s in Golang with [bubbles](https://github.com/charmbracelet/bubbles/) and [lipgloss](https://github.com/charmbracelet/lipgloss).
 
 ### 2022-2023
 - 🎮 Senior Engineer @ [play.co](https://github.com/play-co) working on cloud infrastructure and core game platform architecture.
