@@ -3,14 +3,16 @@ My name is Mukunda but I go by @20after4 on github.
 Here are some of the things I've been up to recently:
 
 ### 2024
-- Automating all the things with ESPHome and Home Assistant
+- [Solar Energy Automation](https://github.com/20after4/esphome-energy-monitor/) based on ESPHome and Home Assistant.
+  - ESPHome running on ESP32 is used for Monitoring and controlling multiple solar charge controllers and energy storage battery banks.
+  - Home Assistant is an ideal framework for visualizing charge status, energy use and monitoring the health of my batteries.
+  - Sohphisticated automation features enable optimized charge and discharge behavior, integrating multiple batteries and charge controllers into a single cohesive system.
 - Building [TUI](https://github.com/topics/tui)s in Golang with [bubbles](https://github.com/charmbracelet/bubbles/) and [lipgloss](https://github.com/charmbracelet/lipgloss).
 
 ### 2022-2023
 - 🎮 Senior Engineer @ [play.co](https://github.com/play-co) working on cloud infrastructure and core game platform architecture.
 - Built a solar power and energy-storage system for my home.
 - Practiced hardware prototyping, designed a few custom printed circuit boards.
-
 
 ### 2021-2022
 - ⚒️ Founding contributor to [phorge.it](https://we.phorge.it), the community maintained fork of Phabricator.
@@ -20,16 +22,16 @@ Here are some of the things I've been up to recently:
 - 🔧 Converted my Grizzly Milling Machine to CNC with [LinuxCNC](https://linuxcnc.org/).
 
 ### 2014-2021
-- 🔭 Maintaining [Wikimedia's fork of Phabricator](https://phabricator.wikimedia.org) - [My commits](https://phabricator.wikimedia.org/people/commits/8/)
-- 🚢 Deploying the software that powers Wikipedia @wikimedia/release-engineering
-  - Infrastructure configured and deployed with Puppet - [My commits](https://github.com/wikimedia/operations-puppet/commits?author=20after4)
+- 🔭 Maintaining [Wikimedia's fork of Phabricator](https://phabricator.wikimedia.org) - [My commits](https://phabricator.wikimedia.org/people/commits/8/).
+- 🚢 Deploying the software that powers Wikipedia @wikimedia/release-engineering.
+  - Infrastructure configured and deployed with Puppet - [My commits](https://github.com/wikimedia/operations-puppet/commits?author=20after4).
 
 ### 2009-2013
-- :art: Senior DevOps Engineer at [DeviantArt](https://www.deviantart.com/)
+- :art: Senior DevOps Engineer at [DeviantArt](https://www.deviantart.com/).
 
 ### Profiles elsewhere:
-- 🔗 phorge: [phorge.it/20after4](https://we.phorge.it/p/20after4/)
-- 🗯️ social: <a rel="me" href="https://wikis.world/@20after4">wikis.world/@20after4</a>
-- 🗜️ hacks: [hackaday.io/20after4](https://hackaday.io/20after4)
-- ![image](https://github.com/20after4/20after4/assets/30934/f28ada0d-b32e-408f-99bb-704dcd275b3d) art: [deviantArt/20after4](https://www.deviantart.com/20after4)
-- :camera: photos: [flickr/photos/20after4](https://www.flickr.com/photos/20after4/)
+- 🔗 phorge: [phorge.it/20after4](https://we.phorge.it/p/20after4/).
+- 🗯️ social: <a rel="me" href="https://wikis.world/@20after4">wikis.world/@20after4</a>.
+- 🗜️ hacks: [hackaday.io/20after4](https://hackaday.io/20after4).
+- ![image](https://github.com/20after4/20after4/assets/30934/f28ada0d-b32e-408f-99bb-704dcd275b3d) art: [deviantArt/20after4](https://www.deviantart.com/20after4).
+- :camera: photos: [flickr/photos/20after4](https://www.flickr.com/photos/20after4/).
