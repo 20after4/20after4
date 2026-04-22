@@ -1,7 +1,18 @@
 My name is Mukunda but I go by @20after4 on github.
 
 Here are some of the things I've been up to recently:
-
+### 2025-2026
+- [Layer.com](https://layer.com) - Embedded Development and back-end software/infrastructure.
+  - Developed a Cloud-based video transcoding pipeline focused on achieving the highest possible visual fidelity for animated digital art.
+    - Achievements:
+      - Improved subjective video quality
+      - Reduced encoding costs
+      - Reduced reliance on a 3rd party transcoding service.
+  - Developed software for reliably monitoring multiplexed i2c sensors.
+    - Achievements:
+      - Improved reliability and fault tolerance
+      - Reduced code complexity.
+ 
 ### 2024
 - [Solar Energy Automation](https://github.com/20after4/esphome-energy-monitor/) based on ESPHome and Home Assistant.
   - ESPHome running on ESP32 is used for Monitoring and controlling multiple solar charge controllers and energy storage battery banks.
