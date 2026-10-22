@@ -2,6 +2,7 @@ My name is Mukunda but I go by [@20after4](https://github.com/20after4) on githu
 
 Here are some of the things I've been up to recently:
 ### 2025-2026
+- [esphome-murata](https://github.com/20after4/esphome-murata) ESPHome configuration for monitoring Murata IJ1101M battery modules over Modbus.
 - [Layer.com](https://layer.com) - Embedded Development and back-end software/infrastructure.
   - Developed a Cloud-based video transcoding pipeline focused on achieving the highest possible visual fidelity for animated digital art.
     - Achievements:
