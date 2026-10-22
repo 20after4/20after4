@@ -1,4 +1,4 @@
-My name is Mukunda but I go by @20after4 on github.
+My name is Mukunda but I go by [@20after4](https://github.com/20after4) on github.
 
 Here are some of the things I've been up to recently:
 ### 2025-2026
